@@ -26,7 +26,6 @@ print(result,unans)
 
 ```
 # Output
-![Screenshot 2025-04-17 140750](https://github.com/user-attachments/assets/b290dafa-133f-47c2-a7a0-e2664bd42203)
-
+![Screenshot 2025-04-24 135746](https://github.com/user-attachments/assets/8bc27241-164b-429f-807a-430996e9f7dc)
 # Result
 Thus Execution of Network commands Performed

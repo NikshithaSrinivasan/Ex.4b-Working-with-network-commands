@@ -20,7 +20,7 @@ This commands includes
 # Program
 ```
 from scapy.all import*
-target = ["www.saveeth.ac.in"]
+target = ["www.google.com"]
 result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 
